@@ -1,0 +1,14 @@
+.card{
+    width: 380px;
+    min-height: 300px;
+    padding: 20px;
+    box-shadow: black 0 0 15px -10px;
+    text-align: center;
+    margin: 10px; 
+    transition: 0.2s linear;
+}
+
+.card p {
+    text-align: justify;
+}
+
